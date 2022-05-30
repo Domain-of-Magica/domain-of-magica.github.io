@@ -1,2 +1,2 @@
 # magica-domain.github.io
-Domain of Magica repository for storing all music used in the game
+Public Domain of Magica repository used for storing all the music from the game
